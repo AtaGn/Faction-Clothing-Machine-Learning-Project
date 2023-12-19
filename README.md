@@ -1,4 +1,4 @@
-# Faction-Clothing-Machine-Learning-Project
+# Fashion-Clothing-Machine-Learning-Project
 **Introduction**
 
 Welcome to the Faction Clothing Machine Learning Project, an exciting venture designed to revolutionize the world of fashion and outfit recommendations using the power of machine learning. This project is initiated as part of our Introduction to Machine Learning class project and will be developed on Google Colab. Our primary objective is to build an image-processing machine-learning model capable of recommending outfits that are similar to a randomly chosen item of clothing from our dataset.
